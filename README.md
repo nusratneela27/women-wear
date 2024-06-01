@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Technologies Used
+
+- **Next.js**: React framework for SSR, SSG, and routing.
+- **React**: JavaScript library for building user interfaces.
+- **Tailwind CSS and nextUI**: Utility-first CSS framework for styling.
+- **TypeScript**: Programming languages for frontend logic and data handling.
+
 ## Installation
 
 1. Clone the repository:
@@ -85,10 +92,3 @@ This project is a Women Wear Clothing website built using Next.js, aimed at show
 ### All Products in Dashboard (”/dashboard/all-products”) [SSR]
 
 - Provides a table view of all clothing items for easy management.
-
-## Technologies Used
-
-- **Next.js**: React framework for SSR, SSG, and routing.
-- **React**: JavaScript library for building user interfaces.
-- **Tailwind CSS and nextUI**: Utility-first CSS framework for styling.
-- **TypeScript**: Programming languages for frontend logic and data handling.
