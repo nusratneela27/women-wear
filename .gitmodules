@@ -1,0 +1,6 @@
+[submodule "women-wear-client"]
+	path = women-wear-client
+	url = https://github.com/nusratneela27/women-wear-client.git
+[submodule "women-wear-server"]
+	path = women-wear-server
+	url = https://github.com/nusratneela27/women-wear-server.git
